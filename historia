@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Vive Japón</title>
+<link rel="stylesheet" type="text/css" href="../style/estilos.css">
+<meta charset="utf-8">
+</head>
+<body>
+<h1 class="title"><center>Vive Japón</h1>
+<div><p>Japón es un archipiélago de 6852 islas. En la isla de Honshū, donde está la ciudad de Tokio, capital de facto de la 
+nación, es la mayor área metropolitana del mundo, con más de treinta millones de residentes.</p></div>
+<div><p>Japón es desde hace varias décadas, es una de las grandes potencias económicas mundiales y en la actualidad 
+es la tercera mayor economía de acuerdo a su PIB. Asimismo, es el cuarto mayor exportador e importador de mercancías. 
+Aunque Japón renunció oficialmente a su derecho a declarar la guerra tras la Segunda Guerra Mundial, posee unas modernas 
+fuerzas armadas y el quinto mayor presupuesto militar mundial para su autodefensa y el mantenimiento de la paz.</p></div>
+<div><p>Japón es una mezcla de cultura, historia y modernidad. El respeto, el silencio, la limpieza y el orden, 
+imperan en las calles niponas. Vida familiar, altos niveles académicos y económicos, distinguen a esta sociedad por 
+encima de ninguna otra en el mundo.</p></div>
+</body>
+</html>
