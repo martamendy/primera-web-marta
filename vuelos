@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Visita Japón</title>
+<link rel="stylesheet" type="text/css" href="../style/estilos.css">
+<meta charset="utf-8">
+</head>
+<body>
+<h1 class="title"><center>Aerolineas</h1>
+<table>
+<tr>
+<td><a a class="fondo" href="https://www.google.es/flights/#search;f=BCN,YJB;t=r-Jap%C3%B3n-0x34674e0fd77f192f:0xf54275d47c665244;d=2017-11-12;r=2017-11-16;q=vuelos+a+japon">
+<img src="../imatges/vuelosg.jpg"style="max-width: 300px; max-height: 300px" title="Google Flights">
+</a></td>
+<td><iframe src="https://calendar.google.com/calendar/embed?src=jr9d63098lllrl749g8dnpjsko%40group.calendar.google.com&ctz=Europe/Madrid" style="border: 0" width="400" height="350" frameborder="0" scrolling="no"></iframe></td>
+<td><a a class="fondo" href=" https://fly4.emirates.com/CAB/IBE/SearchAvailability.aspx?gclid=EAIaIQobChMIn-Sy36mQ1wIViLXtCh1WJwnfEAAYASAAEgIw9PD_BwE&gclsrc=aw.ds">
+<img src="../imatges/emirates.jpg" style="max-width: 400px; max-height: 400px" title="Emirates Airlines"></a></td>
+</tr>
+<tr>
+<td><a a class="fondo" href="https://www.ana.co.jp/asw/wws/es/e/?cid=EuropegoogleSpain201506015430#199242349637">
+<img src="../imatges/ana.jpg" style="max-width: 400px; max-height: 400px" title="ANA Airlines"></a></td>
+<td><a a class="fondo" href="http://www.iberia.com/es/vuelos-baratos/Japon/">
+<img src="../imatges/iberia.jpg" style="max-width: 400px; max-height: 400px" title="Iberia Airlines"></a></td>
+</tr>
+</table>
+</body>
+</html>
+
+
+
+
+
+
+
+
