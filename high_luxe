@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Visita Japón</title>
+<link rel="stylesheet" type="text/css" href="../style/estilos.css">
+<meta charset="utf-8">
+</head>
+<body>
+<h1 class="title"><center>High Luxe Hotels</h1>
+<h2><b>OSAKA</b></h2>
+<table>
+<tr>
+<td><p><b>Osaka Marriot Miyako Hotel</b></p>
+<a class="fondo" href=" https://www.espanol.marriott.com/reservation/rateListMenu.mi">
+<img src="../imatges/img_high/osakamarriot.jpg" style="max-width: 550px; max-height: 450px" title="Osaka Marriott Miyako Hotel"></a></td>
+<td><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3282.354586663413!2d135.51196595032084!3d34.64574698035265!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6000ddf02403db6d%3A0x59ed2e81b808195e!2sOsaka+Marriott+Miyako+Hotel!5e0!3m2!1ses!2ses!4v1509176364743" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></td>
+</tr>
+<tr>
+<td><p><b>Swissotel Nankai Osaka</b></p>
+<a class="fondo" href=" http://www.swissotel.com/hotels/nankai-osaka/promotions/?genid=tripadvisor_sos_bizlist&utm_source=tripadvisor&utm_medium=&utm_content=sos&utm_campaign=bizlist">
+<img src="../imatges/img_high/osakanankai.jpg" style="max-width: 600px; max-height: 450px" title="Swissotel Nankai Osaka"></a></td>
+<td><iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3281.6458045635654!2d135.49876600032138!3d34.66364698034806!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sSwissotel+Nankai+Osaka!5e0!3m2!1ses!2ses!4v1509177165395" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></td>
+</tr>
+<tr>
+<td><p><b>The Westin Osaka</p></b>
+<a class="fondo" href="http://www.starwoodhotels.com/westin/property/overview/index.html?propertyID=1061&language=en_US">
+<img src="../imatges/img_high/osakawestin.jpg" style="max-width: 600px; max-height: 450px" title="The Westin Osaka"></a></td>
+<td><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3280.0339083488093!2d135.48720985032264!3d34.70432468033755!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6000e68861a9a879%3A0x5982459a74ef0cf!2sWestin+Hotel+%C5%8Csaka!5e0!3m2!1ses!2ses!4v1509177546358" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></td>
+</tr>
+<tr>
+<td><p><b>Monterey Osaka</b></p>
+<a class="fondo" href="https://www.hotelmonterey.co.jp/en/osaka/">
+<img src="../imatges/img_high/osakamonte.jpg" style="max-width: 550px; max-height: 450px" title="Monterey Osaka"></a></td>
+<td><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3280.228191296972!2d135.4899249503226!3d34.69942398033874!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6000e68b7b0ba64f%3A0x2f2fda9238c67e46!2sHotel+Monterey+Osaka!5e0!3m2!1ses!2ses!4v1509178125615" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></td>
+</tr>
+<tr>
+<td><p><b>Imperial Hotel Osaka</b></p>
+<a class="fondo" href="http://www.imperialhotel.co.jp/e/osaka/index.html?utm_source=Tripadvisor&utm_medium=ad&utm_content=Contactlinks">
+<img src="../imatges/img_high/osakaimperial.jpg" style="max-width: 550px; max-height: 450px" title="Imperial Hotel Osaka"></a></td>
+<td><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3280.1656873500638!2d135.51727395032265!3d34.7010006803383!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6000e6d1e64bd933%3A0x380eb7cd15cffab9!2sImperial+Hotel+Osaka!5e0!3m2!1ses!2ses!4v1509178399555" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></td>
+</tr>
+</table>
+</br>
+</br>
+<h2><b>SAPPORO</b></h2>
+</br>
+</br>
+<table>
+<tr>
+<td><p><b>Sapporo Grand Hotel</b></p>
+<a class="fondo" href="http://www.grand1934.com/english/?utm_source=Tripadvisor&utm_medium=Ad&utm_campaign=TAwebsiteEN">
+<img src="../imatges/img_high/sapgrand.jpg" style="max-width: 600px; max-height: 450px" title="Sapporo Grand Hotel"></a></td>
+<td><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2914.9835760905394!2d141.34868595062372!3d43.062812979043606!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5f0b299dd1f7781d%3A0x7bdec5303d227e56!2sSapporo+Grand+Hotel!5e0!3m2!1ses!2ses!4v1509178823513" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></td>
+</tr>
+<tr>
+<td><b><p>Vessel Inn Sapporo Nakajima Park</b></p>
+<a class="fondo" href="https://travel.rakuten.com/hotel/info/139991/">
+<img src="../imatges/img_high/sapves.jpg"style="max-width: 550px; max-height: 450px" title="Sapporo Grand Hotel"></a></td>
+<td><iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d5831.484026246924!2d141.35042239644204!3d43.04685931617738!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sVessel+Inn+Sapporo+Nakajima+Park!5e0!3m2!1ses!2ses!4v1509179087625" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></td>
+</tr>
+<tr>
+<td><b><p>Sapporo View Hotel Odori Koen</b></p>
+<a class="fondo" href="https://www.viewhotels.co.jp/sapporo/">
+<img src="../imatges/img_high/sapodo.jpg"style="max-width: 600px; max-height: 450px" title="Sapporo Grand Hotel"></a></td>
+<td><iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d1457.5784927576653!2d141.34472512591233!3d43.05916574476094!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sSapporo+View+Hotel+Odori+Koen!5e0!3m2!1ses!2ses!4v1509179302986" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></td>
+</tr>
+<tr>
+<td><b><p>Sapporo Park Hotel</b></p>
+<a class="fondo" href="http://www.sapporoparkhotel1964.com/">
+<img src="../imatges/img_high/sapark.jpg"style="max-width: 550px; max-height: 450px" title="Sapporo Park Hotel"></a></td>
+<td><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2915.7021962586427!2d141.3540080506232!3d43.047696979044375!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5f0b2a27b2778317%3A0xed7499392844ca44!2sSapporo+Park+Hotel!5e0!3m2!1ses!2ses!4v1509179805048" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></td>
+</tr>
+</table>
+</br>
+</br>
+<h2><b>TOKIO</b></h2> 
+<table>
+<tr>
+<td><p><b>Sheraton Grande Tokio Bay</b></p>
+<a class="fondo" href="http://www.sheratongrandetokyobay.com/">
+<img src="../imatges/img_high/tokioshe.jpg" style="max-width: 600px; max-height: 450px" title="Sheraton Grande Tokio Bay"></a></td>
+<td><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3243.0723085525506!2d139.87538785035332!3d35.62594388011014!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60187d18df785f11%3A0xef6236f05bbb2e55!2sSheraton+Grande+Tokyo+Bay+Hotel!5e0!3m2!1ses!2ses!4v1509180418160" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></td>
+</tr>
+<tr>
+<td><p><b>Four Seasons Tokyo at Marunouchi</b></p>
+<a class="fondo" href="https://www.fourseasons.com/es/tokyo/">
+<img src="../imatges/img_high/tokiofour.jpg" style="max-width: 550px; max-height: 450px" title="Four Seasons Tokyo at Marunouchi"></a></td>
+<td><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.9531005933122!2d139.76461615035493!3d35.67815678009784!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188bfb438ac3a3%3A0x10895741c86da2ca!2sFour+Seasons+Hotel+Tokyo+At+Marunouchi!5e0!3m2!1ses!2ses!4v1509180686304" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></td>
+</tr>	
+<tr>
+<td><p><b>The Ritz-Carlton Tokyo</b></p>
+<a class="fondo" href="http://www.ritzcarlton.com/en/hotels/japan/tokyo#Hotel">
+<img src="../imatges/img_high/tokioritz.jpg" style="max-width: 550px; max-height: 450px" title="Four Seasons Tokyo at Marunouchi"></a></td>
+<td><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3241.4330235033685!2d139.7288163503545!3d35.66633828010055!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188b7897bf41df%3A0x92857855eea92cbc!2sThe+Ritz-Carlton%2C+Tokyo!5e0!3m2!1ses!2ses!4v1509181048800" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></td>
+</tr>	
+<tr>
+<td><p><b>The Peninsula Tokyo</b></p>
+<a class="fondo" href="https://thepeninsula.grandluxuryhotels.com/en/h/58/the-peninsula-tokyo?gclid=Cj0KCQjw1dDPBRC_ARIsAJZrQfonagrMG-J9OlZhjAF-BS7_YihCgTqgSNakAoTPhp5Cr4afgmPyKMkaAquEEALw_wcB">
+<img src="../imatges/img_high/tokiopen.jpg" style="max-width: 550px; max-height: 450px" title="The Peninsula Tokio"></a></td>
+<td><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3241.091087731968!2d139.75827635035498!3d35.67475908009862!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188bf0283e8869%3A0xab933700bc3fc1e3!2sThe+Peninsula+Tokyo!5e0!3m2!1ses!2ses!4v1509181236730" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></td>
+</tr>	
+</table>
+</body>
+</html>
+	
