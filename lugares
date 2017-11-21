@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<head>
+<head>
+<title>Visita Japón</title>
+<link rel="stylesheet" type="text/css" href="../style/estilos.css">
+<meta charset="utf-8">
+</head>
+<body>
+<h1 class="title"><center>Lugares de interés</h1>
+<h2>Osaka</h2>
+<table>
+<tr>
+<td><div><b><p>Castillo de Osaka</b></p>
+<p>En el centro de un gran parque se eleva el Castillo de Osaka, símbolo de poder y de la historia de la ciudad. En el torreón 
+principal, se muestran numerosos objetos históricos, entre los que se encuentras un biombo que representa 
+la "Guerra de Verano de Osaka" o un diorama sobre la vida de Toyotomi Hideyoshi. La torre también ofrece una hermosa 
+vista sobre la ciudad. La yagura (torre) y los muros de piedra datan del período Tokugawa.</p>
+<center><img src="../imatges/llocs/castosaka.jpg" style="max-width: 400px; max-height: 400px" title="Osaka Castle"><a href="http://www.osakacastle.net/"></a></td></tr></div>
+<tr>
+<td><div><b><p>Acuario de Osaka Kaiyukan</b></p>
+<p>Las atracciones más apreciadas son el tiburón ballena y el pez luna.
+A 5 minutos a pie de la salida 1 de la estación de Osaka-ko (línea Chuo).</p>
+<center><img src="../imatges/llocs/acuariokai.jpg" style="max-width: 400px; max-height: 400px" title="Kaiyukan Aquarium"><a href="http://www.kaiyukan.com/language/espanol/"></a></div>
+</td>
+</tr>
+<tr>
+<td><div><b><p>Museo Suntory</b></p>
+<p>Se trata de un complejo cultural que incluye un museo de arte, un cine IMAX, tiendas y restaurantes.</p>
+<a class="fondo" href="https://www.suntory.com/sma/">
+<center><img src="../imatges/llocs/suntory.jpg" style="max-width: 400px; max-height: 400px" title="Suntory Museum"></a></div>
+</td>
+</tr>
+<tr>
+<td><div><b><p>Mercado de Tempozan</b></p>
+<p>En este edificio encontramos numerosos restaurantes y tiendas, así como un mirador desde el que se
+ puede disfrutar de una hermosa vista de la bahía de Osaka, las montañas Ikoma al este, el puente Akashi Kaikyo al oeste, el Aeropuerto Internacional de Kansai al sur y el Monte Rokko al norte. Muy cerca, se encuentra la noria gigante de Tempozan.</p>
+<a class="fondo" href="http://www.kaiyukan.com/thv/marketplace/">
+<center><img src="../imatges/llocs/tempmarket.jpg" style="max-width: 400px; max-height: 400px" title="Tempozan Market"></a></div>
+</td>
+</tr>
+<tr>
+<td><div><b><p>Kyocera Dome</b></p>
+<p>Este estadio cubierto, con forma de platillo volante, alberga principalmente partidos de béisbol y conciertos. También tiene numerosas tiendas, cervecerías y una sala de juegos en red. Visita guiada de 40 a 50 minutos bajo reserva.</p>
+<center><img src="../imatges/llocs/domeo.jpg" style="max-width: 400px; max-height: 400px" title="Kyocera Dome Stadium"></a></div>
+</td>
+</tr>
+</table>
+</br>
+</br>
+<h2>Tokio</h2>
+<table>
+<tr>
+<td><div><b><p>Templo Senso-Ji</b></p>
+<p>Acercarnos al templo Senso-ji, famoso por su enorme farolillo colgado en la puerta Kaminarimon.</p>
+<center><a class="fondo" href="http://www.senso-ji.jp/"><img src="../imatges/llocs/senso.jpg"style="max-width: 400px; max-height: 400px" title="Senso-Ji Temple"></a></div>
+</td>
+</tr>
+<tr>
+<td><div><b><p>Mercado de Tsukiji</b></p>
+<p>Visita el mercado de pescado de Tsukiji o tomar delicioso sushi a cualquier hora en los callejones colindantes.</p>
+<center><img src="../imatges/llocs/mercatok.jpg" style="max-width: 400px; max-height: 400px" title="Tsukiji Fish Market"></div>
+</td>
+</tr>
+<tr>
+<td><div><b><p>Jardines Hama Rikyu</b></p>
+<p>Da un relajante paseo por los jardines Hama Rikyu, una burbuja de paz en pleno centro de Tokio.</p>
+<a href="http://teien.tokyo-park.or.jp/contents/index028.html">
+<center><img src="../imatges/llocs/jarditok.jpg"style="max-width: 400px; max-height: 400px" title="Hama Rikyu Garden"></a></div>
+</td>
+</tr>
+<tr>
+<td><div><b><p>Akihabara</b></p>
+<p>Dad un paseo por la calle principal y callejuelas traseras de Akihabara admirando los neones de grandes tiendas, las tiendas pequeñas que parecen congeladas en los años sesenta, los maid cafés y frikadas varias de las tiendas de merchandising, etc.</p>
+<center><img src="../imatges/llocs/akiha.jpg" style="max-width: 400px; max-height: 400px" title="Akihabara"></a></div>
+</td>
+</tr>
+<tr>
+<td><div><b><p>Tokio Tower</b></p>
+<p>Acercarnos a la famosa Tokyo Tower o Torre de Tokio para disfrutar de grandes vistas sobre la ciudad. Al bajar, 
+tomarnos una crepe japonesa en un establecimiento cercano y admirar la torre desde abajo.</p>
+<a class="fondo" href="https://www.tokyotower.co.jp/">
+<center><img src="../imatges/llocs/tow.jpg" style="max-width: 400px; max-height: 400px" title="Tokio Tower"></a></div>
+</td>
+</tr>
+</table>
+</br>
+</br>
+<h2>Sapporo</h2>
+<table>
+<tr>
+<td><div><b><p>Museo de la cerveza Sapporo</b></p>
+<p>Visitar el Museo de la Cerveza de Sapporo, donde no sólo podremos aprender algo más sobre la historia de esta famosa marca de 
+cervezas sino también degustar varias cervezas en su cantina y acabar comiendo o cenando en el Sapporo Bier Garden donde podemos probar una deliciosa especialidad local: el yakiniku llamado Genghis Khan</p>
+<a class="fondo" href="http://www.sapporobeer.jp/brewery/s_museum/">
+<center><img src="../imatges/llocs/beer.jpg" style="max-width: 400px; max-height: 400px" title="Sapporo Beer Museum"></a></div>
+</td>
+</tr>
+<tr>
+<td><div><b><p>Torre del Reloj</b></p>
+<p>Visitar la Tokedai o Torre del Reloj, todo un símbolo de Sapporo que actualmente sirve de museo y sala de ceremonias.</p>
+<center><img src="../imatges/llocs/reloj.jpg" style="max-width: 400px; max-height: 400px" title="Tokedai Tower"></a></div>
+</td>
+</tr>
+<tr>
+<td><div><b><p>Jardines Odori Koen</b></p>
+<p>Pasear por el parque Odori u Ōdōri Kōen, en el centro de la ciudad, una preciosa manera de disfrutar de Sapporo, especialmente en 
+los meses de más calor. Este parque es la zona principal en la que en febrero se celebra el Festival de la nieve de Sapporo.</p>
+<a class="fondo" href="http://www.sapporo-park.or.jp/odori/">
+<center><img src="../imatges/llocs/odori.jpg" style="max-width: 400px; max-height: 400px" title="Odori Koen Park"></a></div>
+</td>
+</tr>
+<tr>
+<td><div><b><p>Zona de Susukino</b></p>
+<p>Pasear por Susukino, la zona de entretenimiento de Sapporo. Ahí podemos ir de compras, tomar algo en algún bar o izakaya y 
+acabar en un karaoke, por ejemplo o tomar un delicioso ramen en la callejuela del ramen.</p>
+<center><img src="../imatges/llocs/susu.jpg" style="max-width: 400px; max-height: 400px" title="Susukino"></div>
+</td>
+</tr>
+<tr>
+<td><div><b><p>Parque Shiroi Koibito</b></p>
+<p>Pasear por Susukino, la zona de entretenimiento de Sapporo. Ahí podemos ir de compras, tomar algo en algún bar o izakaya y acabar 
+en un karaoke, por ejemplo o tomar un delicioso ramen en la callejuela del ramen.</p>
+<a class="fondo" href="http://www.shiroikoibitopark.jp/">
+<center><img src="../imatges/llocs/shiro.jpg" style="max-width: 400px; max-height: 400px" title="Shiroi Koibito Park"></a></div>
+</td>
+</tr>
+</table>
+</body>
+</html>
