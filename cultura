@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Visita Japón</title>
+<link rel="stylesheet" type="text/css" href="../style/estilos.css">
+<meta charset="utf-8">
+</head>
+<body>
+<h1 class="title"><center>Cultura Gastronómica</h1>
+</br>
+</br>
+<div>
+<p>&nbsp&nbsp&nbsp&nbsp La gastronomía de Japón como cocina nacional ha evolucionado, a través de los siglos, a causa 
+de muchos cambios políticos y sociales, comenzando por la Edad Antigua, en la que la mayoría de la cocina estaba influenciada 
+por la cultura china.</p>
+<p>&nbsp&nbsp&nbsp&nbsp Finalmente, la cocina cambió con el advenimiento de la Edad Media que marcó el comienzo de un abandono 
+del elitismo con la normativa del shogunato. Al principio de la Edad Moderna tuvieron lugar grandes cambios que introdujeron 
+en Japón la cultura occidental.</p>
+<center><img src="../imatges/cultura_gastro/cuchi.png" style="max-width: 550px; max-height: 450px" title="Cuchillos Japoneses">
+</div>
+<div>
+<h2><center>Restaurantes</h2></div>
+<div>
+<center><img src="../imatges/rest.jpg"style="max-width: 300px; max-height: 300px"><a href="restaurantes.html">Visítalos</div></a>
+<div>
+<h2><center>Remedios para el frío</h2></div>
+<div>
+<center><img src="../imatges/remedios.jpeg" style="max-width: 300px; max-height: 300px"><a href="remedios.html">Pruébalos</div>
+</body>
+</html>
