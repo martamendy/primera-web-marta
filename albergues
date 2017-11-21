@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Visita Japón</title>
+<link rel="stylesheet" type="text/css" href="../style/estilos.css">
+<meta charset="utf-8">
+</head>
+<body>
+<h1 class="title"><center>Hostels</h1>
+<h2><b>OSAKA</b></h2>
+<table>
+<tr>
+<td><p><b>Hostel 64 Osaka</b></p>
+<a  class="fondo" href="http://www.hostels.com/es/albergues/osaka/hostel-64-osaka/41264?p=V_1#propertyAnchor=p41264">
+<img src="../imatges/img_albergues/osaka64.jpg" style="max-width: 550px; max-height: 450px" title="Osaka Marriott Miyako Hotel"></a></td>
+<td><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3281.076123519229!2d135.4861477508095!3d34.67802818034435!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6000e7001c1a519d%3A0x48e6d5abc0381a76!2sHostel+64+Osaka!5e0!3m2!1ses!2ses!4v1509352674966" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></td>
+</tr>
+<tr>
+<td><p><b>Hostel Q</b></p>
+<a  class="fondo" href="http://www.hostels.com/es/albergues/osaka/hostel-q/82301?p=V_3#propertyAnchor=p82301">
+<img src="../imatges/img_albergues/osakaq.jpg" style="max-width: 550px; max-height: 450px" title="Osaka Marriott Miyako Hotel"></a></td>
+<td><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3281.42335123309!2d135.49641525080926!3d34.66926328034663!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6000e712257ba4ef%3A0x6da8dd8b77e57b2e!2sHostelQ!5e0!3m2!1ses!2ses!4v1509352708595" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></td>
+</tr>
+<tr>
+<td><p><b>J-Hoppers Osaka GuestHouse</b></p>
+<a  class="fondo" href="http://www.hostels.com/es/albergues/osaka/j-hoppers-osaka-guesthouse/24780?p=4#propertyAnchor=p24780">
+<img src="../imatges/img_albergues/osakaj.jpg" style="max-width: 550px; max-height: 450px" title="Osaka Marriott Miyako Hotel"></a></td>
+<td><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3280.3070362032067!2d135.48266695081008!3d34.69743498033938!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6000e661b9db327b%3A0x4d237bafeb1f7ed2!2sJ-Hoppers+Osaka+Guesthouse!5e0!3m2!1ses!2ses!4v1509352739590" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></td>
+</tr>
+<tr>
+<td><p><b>Guest House Odori</b></p>
+<a  class="fondo" href="http://www.hostels.com/es/albergues/osaka/guest-house-odori/60173?p=5#propertyAnchor=p60173">
+<img src="../imatges/img_albergues/osakaodori.jpg" style="max-width: 550px; max-height: 450px" title="Osaka Marriott Miyako Hotel"></a></td>
+<td><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3282.688957199222!2d135.52094305080848!3d34.63729978035491!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6000dddf2159dacd%3A0x7ed05f187104568a!2sGuest+House+Odori!5e0!3m2!1ses!2ses!4v1509352769423" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></td>
+</tr>
+<tr>
+<td><p><b>Hotel Taiyo</b></p>
+<a  class="fondo" href="http://www.hostels.com/es/albergues/osaka/hotel-taiyo/8135?p=6#propertyAnchor=p8135">
+<img src="../imatges/img_albergues/osakatai.jpg" style="max-width: 550px; max-height: 450px" title="Osaka Marriott Miyako Hotel"></a></td>
+<td><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3282.251045266574!2d135.50257775080865!3d34.648362380352054!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6000dd8ae4422fed%3A0x432a4a25592c8ee5!2sHotel+Taiyo!5e0!3m2!1ses!2ses!4v1509352797649" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></td>
+</tr>
+</table>
+</br>
+</br>
+<h2><b>TOKYO</b></h2>
+<table>
+<tr>
+<td><p><b>Khaosan Tokyo Samurai</b></p>
+<a  class="fondo" href="http://www.hostels.com/es/albergues/tokyo/khaosan-tokyo-samurai/95634?p=V_3#propertyAnchor=p95634">
+<img src="../imatges/img_albergues/tokiokhao.jpg" style="max-width: 550px; max-height: 450px" title="Osaka Marriott Miyako Hotel"></a></td>
+<td><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3239.46068899798!2d139.79013095083766!3d35.714886980089226!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188ebfe27ed3e7%3A0x7757ebfc6a0192da!2sKhaosan+Tokyo+Samurai!5e0!3m2!1ses!2ses!4v1509352957443" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></td>
+</tr>
+<tr>
+<td><p><b>Jimbocho Sakura Hotel</b></p>
+<a  class="fondo" href="http://www.hostels.com/es/albergues/tokyo/jimbocho-sakura-hotel/4662?p=9#propertyAnchor=p4662">
+<img src="../imatges/img_albergues/tokiosaku.jpg" style="max-width: 550px; max-height: 450px" title="Osaka Marriott Miyako Hotel"></a></td>
+<td><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.2705633732876!2d139.75426095083705!3d35.69495898009386!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188d5e5d4e27cb%3A0xb1f10dc704752f05!2sSakura+Hotel+Jimbocho!5e0!3m2!1ses!2ses!4v1509353025971" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></td>
+</tr>
+<tr>
+<td><p><b>Retrometro Backpackers</b></p>
+<a  class="fondo" href="http://www.hostels.com/es/albergues/tokyo/retrometro-backpackers/60669?p=12#propertyAnchor=p60669">
+<img src="../imatges/img_albergues/tokioback.jpg" style="max-width: 550px; max-height: 450px" title="Osaka Marriott Miyako Hotel"></a></td>
+<td><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3239.53099957789!2d139.7871674508376!3d35.71315728008972!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188ebe18241117%3A0x5f5fc3ea9d4fd0c7!2sRetro+Metro!5e0!3m2!1ses!2ses!4v1509353129085" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></td>
+</tr>
+<tr>
+<td><p><b>Guest House Shinagawa-shuku Tokyo</b></p>
+<a  class="fondo" href="http://www.hostels.com/es/albergues/tokyo/guest-house-shinagawa-shuku-tokyo/38400?p=14#propertyAnchor=p38400">
+<img src="../imatges/img_albergues/tokioshi.jpg" style="max-width: 550px; max-height: 450px" title="Osaka Marriott Miyako Hotel"></a></td>
+<td><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3243.2381381898635!2d139.73819085083497!3d35.621855380111086!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188a5d12e97967%3A0xfc8161adf8c8ecf0!2sGuesthouse+Shinagawa-Shuku!5e0!3m2!1ses!2ses!4v1509353230662" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></td>
+</tr>
+<tr>
+<td><p><b>Backpackers Hostel K's House Tokyo</b></p>
+<a  class="fondo" href="http://www.hostels.com/es/albergues/tokyo/guest-house-shinagawa-shuku-tokyo/38400?p=14#propertyAnchor=p38400">
+<img src="../imatges/img_albergues/tokioback.jpg" style="max-width: 550px; max-height: 450px" title="Osaka Marriott Miyako Hotel"></a></td>
+<td><iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d6479.283634774889!2d139.7885036472985!3d35.71043092036088!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sBackpackers+Hostel+K&#39;s+House+Tokyo!5e0!3m2!1ses!2ses!4v1509353276500" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></td>
+</tr>
+</table>
+</br>
+</br>
+<h2><b>SAPPORO</b></h2>
+<table>
+<tr>
+<td><p><b>The Stay Sapporo</b></p>
+<a  class="fondo" href="http://www.hostels.com/es/albergues/sapporo/the-stay-sapporo/94710?p=V_2#propertyAnchor=p94710">
+<img src="../imatges/img_albergues/sapstay.jpg" style="max-width: 550px; max-height: 450px" title="Osaka Marriott Miyako Hotel"></a></td>
+<td><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2915.402921035487!2d141.3432778510568!3d43.05399267904403!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5f0b298faef06431%3A0x141ed14d0c413f77!2sTHE+STAY+SAPPORO!5e0!3m2!1ses!2ses!4v1509353352039" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></td>
+</tr>
+<tr>
+<td><p><b>Untapped Hostel</b></p>
+<a  class="fondo" href="http://www.hostels.com/es/albergues/sapporo/untapped-hostel/92983?p=5#propertyAnchor=p92983">
+<img src="../imatges/img_albergues/sapun.jpg" style="max-width: 550px; max-height: 450px" title="Osaka Marriott Miyako Hotel"></a></td>
+<td><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2914.0850155696035!2d141.34390095105758!3d43.081707979042626!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5f0b291c9fafffff%3A0x89f3b113936844b1!2sUntapped+Hostel!5e0!3m2!1ses!2ses!4v1509353505050" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></td>
+</tr>
+<tr>
+<td><p><b>Khaosan Chitose Family Hostel</b></p>
+<a  class="fondo" href="http://www.hostels.com/es/albergues/sapporo/untapped-hostel/92983?p=5#propertyAnchor=p92983">
+<img src="../imatges/img_albergues/sapkhao.jpg" style="max-width: 550px; max-height: 450px" title="Osaka Marriott Miyako Hotel"></a></td>
+<td><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2926.3695427768043!2d141.64191855104932!3d42.82280717905626!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5f7520af943debcf%3A0x38a334be84e03619!2zS2hhb3NhbiBDaGl0b3NlIEZhbWlseSBIb3N0ZWwo44Kr44Kq44K144Oz5Y2D5q2z44OV44Kh44Of44Oq44O844Ob44K544OG44OrKQ!5e0!3m2!1ses!2ses!4v1509353599067" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></td>
+</tr>
+<tr>
+<td><p><b>Mezamashi Sandwich</b></p>
+<a  class="fondo" href="http://www.hostels.com/es/albergues/sapporo/mezamashi-sandwich/275478?p=7#propertyAnchor=p275478">
+<img src="../imatges/img_albergues/sapsand.jpg" style="max-width: 550px; max-height: 450px" title="Osaka Marriott Miyako Hotel"></a></td>
+<td><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2915.2285743910697!2d141.35861705105683!3d43.0576599790439!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5f0b298219c12167%3A0xefeec0adeedc7541!2sMezamashi+Sandwich!5e0!3m2!1ses!2ses!4v1509353664368" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></td>
+</tr>
+<tr>
+<td><p><b>SappoLodge</b></p>
+<a  class="fondo" href="http://www.hostels.com/es/albergues/sapporo/mezamashi-sandwich/275478?p=7#propertyAnchor=p275478">
+<img src="../imatges/img_albergues/sapsap.jpg" style="max-width: 550px; max-height: 450px" title="Osaka Marriott Miyako Hotel"></a></td>
+<td><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2915.3407009112275!2d141.35717605105674!3d43.05530147904399!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5f0b29816a9ead03%3A0xaf81fd5fe20e58d!2sSappolodge!5e0!3m2!1ses!2ses!4v1509353731026" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></td>
+</tr>
+</table>
+</body>
+</html>
