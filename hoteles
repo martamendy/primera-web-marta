@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Visita Japón</title>
+<link rel="stylesheet" type="text/css" href="../style/estilos.css">
+<meta charset="utf-8">
+</head>
+<body>
+<h1 class="title"><center>Hoteles</h1>
+<div><p>&nbsp&nbsp&nbsp&nbsp El servicio al estilo japonés, traducción de la palabra japonesa omotenashi, es reconocido y apreciado en todo 
+el mundo. Si en otras partes se dice que el cliente es el rey, n Japón el cliente es un dios. Eso es para darte una idea de lo 
+que te espera en tu viaje.</p>
+<p>En Japón te sentirás como un invitado especial, incluso en las tiendas más pequeñas. Además el nivel de lenguaje que usan 
+los empleados es el keigo, que es muy respetuoso.</p></div>
+<table>
+<tr>
+<td><img src="../imatges/hospitalitat/omo1.png" style="max-width: 550px; max-height: 450px" title="Cuchillo Japonés"></a></td>
+<td><img src="../imatges/hospitalitat/omo.jpg" style="max-width: 550px; max-height: 450px" title="Cuchillo Japonés"></a></td>
+<td><img src="../imatges/hospitalitat/omo2.png" style="max-width: 550px; max-height: 450px" title="Cuchillo Japonés"></a></td>
+</table>
+<div>
+<h2><center>Visítalos</h2></div>
+<div>
+<center><img src="../imatges/img_high/sapark.jpg"style="max-width: 300px; max-height: 300px"><a href="high_luxe.html">High Luxe Hotels</div></a>
+<div><center><img src="../imatges/img_albergues/osakaodori.jpg"style="max-width: 300px; max-height: 300px"><center><a href="albergues.html">Albergues Económicos</div></a>
+</body>
+</html>
