@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Visita Japón</title>
+<link rel="stylesheet" type="text/css" href="../style/estilos.css">
+<meta charset="utf-8">
+</head>
+<body>
+<h1 class="title"><center>Descubre</h1>
+</br>
+</br>
+<table>
+<tr>
+<td><img src="../imatges/nina.jpg" style="max-width: 300px; max-height: 300px" title="Gastronomía"></td>
+<td><img src="../imatges/rojo.jpg" style="max-width: 300px; max-height: 300px" title="Religión"></td>
+<td><img src="../imatges/salmon.jpg" style="max-width: 300px; max-height: 300px" title="Gastronomía"></td>
+<td><img src="../imatges/rest.jpg" style="max-width: 300px; max-height: 300px" title="Gastronomía"></td>
+</tr>
+<tr>
+<td><img src="../imatges/sushi.jpg" style="max-width: 300px; max-height: 300px" title="Gastronomía"></td>
+<td><img src="../imatges/pulpo2.jpg" style="max-width: 300px; max-height: 300px" title="Gastronomía"></td>
+<td><img src="../imatges/pesc.jpg" style="max-width: 300px; max-height: 300px" title="Gastronomía"></td>
+<td><img src="../imatges/pescado.jpg" style="max-width: 300px; max-height: 300px" title="Gastronomía"></td>
+</tr>
+<tr>
+<td><img src="../imatges/temp.jpg" style="max-width: 300px; max-height: 300px" title="Religión"></td>
+<td><img src="../imatges/temp2.jpg" style="max-width: 300px; max-height: 300px" title="Religión"></td>
+<td><img src="../imatges/temp3.jpg" style="max-width: 300px; max-height: 300px" title="Religión"></td>
+<td><img src="../imatges/temp4.jpg" style="max-width: 300px; max-height: 300px" title="Religión"></td>
+</tr>
+<tr>
+<td><img src="../imatges/bosque.jpg" style="max-width: 300px; max-height: 300px" title="Naturaleza"></td>
+<td><img src="../imatges/calle.jpg" style="max-width: 300px; max-height: 300px" title="Sociedad"></td>
+<td><img src="../imatges/calle2.jpg" style="max-width: 300px; max-height: 300px" title="Sociedad"></td>
+<td><img src="../imatges/calle3.jpg" style="max-width: 300px; max-height: 300px" title="Sociedad"></td>
+</tr>
+</table>
+<div>
+<h2><center>Lugares Encantadores</h2></div>
+<div>
+<center><img src="../imatges/temp2.jpg"style="max-width: 300px; max-height: 300px"><a href="lugares.html">Visítalos</div></a>
+<div>
+<h2><center>Historia Nipona</h2></div>
+<div><center><img src="../imatges/historia1.jpg"style="max-width: 300px; max-height: 300px"><center><a href="historia.html">Conócela</div></a>
+</body>
+</html>
